@@ -1,6 +1,10 @@
-# react-calculator
+# React Calculator
 
 Building a simple calculator using React.js
+
+## Why Did I Build This?
+
+My objective was to improve my understanding of working with React.js states. I decided to build a simple calculator to practice.
 
 ## Getting Started
 
